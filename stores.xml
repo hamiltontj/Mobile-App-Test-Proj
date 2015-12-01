@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<points>
+
+<point>
+<name>SGA Bookstore</name>
+<address>Robert M. Smith Student Center, Rock Pride Dr, Slippery Rock, PA 16057</address>
+<latitud>41.062811</latitud>
+<longitud>-80.045601</longitud>
+<phone>800.929.4778</phone>
+<website>sru.edu</website>
+</point>
+
+<point>
+<name>Electronic Technology Center</name>
+<address>Robert M. Smith Student Center, Rock Pride Dr, Slippery Rock, PA 16057</address>
+<latitud>41.062811</latitud>
+<longitud>-80.045601</longitud>
+<phone>800.929.4778</phone>
+<website>sru.edu</website>
+</point>
+
+<point>
+<name>Giant Eagle</name>
+<address>Slippery Rock Plaza, 223 Grove City Rd, Slippery Rock, PA 16057</address>
+<latitud>41.070924</latitud>
+<longitud>-80.054363</longitud>
+<phone>(724) 794-5040</phone>
+<website>N/A</website>
+</point>
+
+<point>
+<name>Sheetz</name>
+<address>107 Franklin St, Slippery Rock, PA 16057</address>
+<latitud>41.061771</latitud>
+<longitud>-80.054526</longitud>
+<phone>(724) 738-0222</phone>
+<website>sheetz.com</website>
+</point>
+
+<point>
+<name>Dollar Tree</name>
+<address>223 Grove City Rd, Slippery Rock, PA 16057</address>
+<latitud>41.070882</latitud>
+<longitud>-80.054451</longitud>
+<phone>(724) 738-0496</phone>
+<website>locations.dollartree.com</website>
+</point>
+
+<point>
+<name>Rite Aid</name>
+<address>221 Grove City Rd, Slippery Rock, PA 16057</address>
+<latitud>41.070711</latitud>
+<longitud>-80.052569</longitud>
+<phone>(724) 794-6365</phone>
+<website>www.riteaid.com/</website>
+</point>
+
+</points>

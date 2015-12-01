@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<points>
+
+
+<point>
+<name>North Country Brewing</name>
+<address>151 S Main St</address>
+<latitud>41.063630</latitud>
+<longitud>-80.055821</longitud>
+<phone>(724) 794-2337</phone>
+<website>http://www.northcountrybrewing.com</website>
+</point>
+
+<point>
+<name>Bob's Sub and Sandwich</name>
+<address>242-246 S Main St</address>
+<latitud>41.062576</latitud>
+<longitud>-80.054893</longitud>
+<phone>724.794.6799</phone>
+<website>http://www.allmenus.com/pa/slippery-rock/291498-bobs-sub-and-sandwich-shop/menu/</website>
+</point>
+
+<point>
+<name>B and J Coney Island</name>
+<address>635 Kelly Blvd Slippery Rock, PA 16057</address>
+<latitud>41.071870</latitud>
+<longitud>-80.052077</longitud>
+<phone>724.794.4899</phone>
+<website>http://www.viewmenu.com/b-and-js-coney-island/menu?ref=google</website>
+</point>
+
+<point>
+<name>Coffaro's Pizza</name>
+<address>216 Grove City Rd, Slippery Rock, PA 16057</address>
+<latitud>41.069481</latitud>
+<longitud>-80.051396</longitud>
+<phone>724.794.2424</phone>
+<website>coffarospizza.com</website>
+</point>
+
+<point>
+<name>Ginger Hill Tavern</name>
+<address>.... Slippery Rock, PA 16057</address>
+<latitud>41.062385</latitud>
+<longitud>-80.054620</longitud>
+<phone>724.794.3504</phone>
+<website>https://locu.com/places/ginger-hill-tavern-slippery-rock-us/#menu</website>
+</point>
+
+
+-<point>
+<name>Boozel Dining Hall</name>
+<address>105 Central Loop</address>
+<latitud>41.062441</latitud>
+<longitud>-80.044707</longitud>
+<phone>N/A</phone>
+<website>sru.edu</website>
+</point>
+
+<point>
+<name>Weisenfluh</name>
+<address>200 Campus Dr</address>
+<latitud>41.060262</latitud>
+<longitud>-80.049703</longitud>
+<phone>N/A</phone>
+<website>sru.edu</website>
+</point>
+
+<point>
+<name>Quaker Steak and Lube</name>
+<address>Robert M. Smith Student Center, Rock Pride Dr, Slippery Rock, PA 16057</address>
+<latitud>41.062811</latitud>
+<longitud>-80.045601</longitud>
+<phone>724.738.4688</phone>
+<website>thelube.com</website>
+</point>
+
+<point>
+<name>Rocky's</name>
+<address>Robert M. Smith Student Center, Rock Pride Dr, Slippery Rock, PA 16057</address>
+<latitud>41.062811</latitud>
+<longitud>-80.045601</longitud>
+<phone>800.929.4778</phone>
+<website>sru.avifoodweb.com</website>
+</point>
+
+<point>
+<name>Starbucks</name>
+<address>Robert M. Smith Student Center, Rock Pride Dr, Slippery Rock, PA 16057</address>
+<latitud>41.062811</latitud>
+<longitud>-80.045601</longitud>
+<phone>724.738.2633</phone>
+<website>sru.avifoodweb.com</website>
+</point>
+
+</points>

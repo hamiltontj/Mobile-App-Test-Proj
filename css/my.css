@@ -1,0 +1,117 @@
+	#weather 
+	{
+		background:#343434;
+		color:white;
+		text-align: center;
+		font-size: 125%;
+		padding: 3px;
+		margin:0px;
+	}
+	.content
+	{
+		padding: 5px;
+	}
+	.content > h1
+	{
+		padding: 0px;
+		margin: 0px;
+		padding-left: 25px;
+	}
+	.content > h2
+	{
+		padding: 0px;
+		margin: 0px;
+		padding-left: 50px;
+	}
+	.content > h3
+	{
+		padding: 0px;
+		margin: 0px;
+		padding-left: 50px;
+	}	
+	.content > p
+	{
+		padding: 0px;
+		margin: 0px;
+		padding-left: 75px;
+	}	
+	.leftImg
+	{
+		float: left;
+		margin: 40px 0px 0px  25%;
+		clear: left;
+	}
+	.rightImg
+	{
+		float: right;
+		margin: 40px  25% 0px 0px;
+		clear: right;
+	}
+	#navBar
+	{
+		width:100%;
+		height:40px;
+		background:#343434;
+		color:white;
+	}
+	#mNavBar
+	{
+		width:100%;
+		height:40px;
+		background:#343434;
+	}
+	#mNavButtons
+	{
+		text-align: center;
+	}
+	#sidebarPulloutZone
+	{
+		position:absolute;
+		top:25px;
+		left:0px;
+		bottom:0px;
+		z-index: 2;
+	}
+	#sidebar
+	{
+		display:none;
+		position:absolute;
+		top:30px;
+		left:0px;
+		bottom:0px;
+		background:#006e52;
+		color:white;"
+		height:100%;
+		width:200px;
+		padding-left:58px;
+		z-index: 4;
+	}
+	#sidebar > img
+	{
+		height:100px;
+		margin-top:10px;
+	}
+	#shortcuts
+	{
+		position:absolute;
+		left:0%;
+		right:0%;
+		z-index: 3;
+	}	
+	html, body
+	{
+	  margin:0px;
+	  padding:0px;
+	}
+	ul li
+	{
+		display:inline;
+		padding: 3px;
+	}
+	ul
+	{
+		display:inline;
+		font-size: 150%;
+		margin: 0px;
+		padding: 0px;
+	}
